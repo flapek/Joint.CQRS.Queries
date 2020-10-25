@@ -1,5 +1,10 @@
 # Joint.CQRS.Queries
 
+| Branch  | Build status                                                                                                                           |
+| ------- | -------------------------------------------------------------------------------------------------------------------------------------- |
+| master  | [![Build Status](https://travis-ci.org/flapek/Joint.CQRS.Queries.svg?branch=master)](https://travis-ci.org/flapek/Joint.CQRS.Queries)  |
+| develop | [![Build Status](https://travis-ci.org/flapek/Joint.CQRS.Queries.svg?branch=develop)](https://travis-ci.org/flapek/Joint.CQRS.Queries) |
+
 ## Queries
 
 Adds ability to create and process **queries** in the sense of [CQRS](https://martinfowler.com/bliki/CQRS.html).
